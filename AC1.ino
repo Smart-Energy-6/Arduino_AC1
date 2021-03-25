@@ -16,13 +16,13 @@ void setup()
   
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
+  pinMode(azul, OUTPUT);
   
   Serial.begin(9600);
 	
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
   Serial.println("                           V1.0");
-  Serial.println("Grupo: NOME AQUI               ");
+  Serial.println("Grupo: Smart Energry              ");
 }
 
 void loop()
