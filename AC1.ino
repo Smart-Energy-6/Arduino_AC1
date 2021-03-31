@@ -79,6 +79,13 @@ void loop()
   digitalWrite(verde,estadoLedVerde);
   }
 
+//sensor de luminosidade
+int getLuminosidade(){
+      int luminosidade;
+    luminosidade = map(analogRead(A1), 6, 619, -3, 10);
+      return luminosidade;
+}
+
 void ledAzul(bool estado){
 	digitalWrite(azul,estado);
 }
@@ -88,9 +95,3 @@ int getTemperatura(){
 	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
   	return temperaturaC;
 } 
-
-int getLuminosidade(){
-  	int luminosidade;
-	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
-  	return luminosidade;
-}
