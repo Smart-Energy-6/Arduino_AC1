@@ -46,12 +46,21 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 ![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Lucas%20Antonio.jpg?raw=true)
 
+
 Meu nome é Lucas Antonio,tenho 15 anos e eu ajudei meu grupo na parte das correção do codigos e dos testes.
 
 ![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Vitoria%20Bordaz.jpg?raw=true)
+
 
 oiii meu nome é Vitória eu tenho 14 anos e eu ajudei nos testes do trabalho!!
 
 ![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Manuela%20Ribeiro.jpg?raw=true)
 
+
 Eu sou a Manuela, tenho 14 anos e ajudei no grupo na fase de testes do codigo.
+
+
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Amanda%20Vaitcunas.jpg?raw=true)
+
+
+Oi, meu nome é Amanda Vaitcunas,tenho 15 anos e eu ajudei o meu grupo Smart Energy nos testes.
