@@ -92,8 +92,9 @@ int getLuminosidade(){
   digitalWrite(azul,estadoLedAzul);
   }
 
+//sensor de temperatura
 int getTemperatura(){
-  	int temperaturaC;
-	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
-  	return temperaturaC;
-} 
+      int temperaturaC;
+    temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
+      return temperaturaC;
+}
