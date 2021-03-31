@@ -44,10 +44,12 @@ void loop()
      digitalWrite(azul, false); 
   }
   
-  if(getTemperatura() > 30){
-    ledAzul(true);
-  }else{
-  	ledAzul(falso); 
+ //Luminosidade - led verde
+  if(getLuminosidade() > 5){
+      digitalWrite(verde, true);
+    Serial.println("Luminosidade alta");
+  } else {
+      digitalWrite(verde, false);
   }
   	
   delay(10);
