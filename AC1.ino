@@ -67,10 +67,12 @@ void loop()
   delay(10);
 }
 
-void ledVermelho(){
+//led vermelho
+  void ledVermelho(bool estado){
   estadoLedVermelho = !estadoLedVermelho;
   digitalWrite(vermelho,estadoLedVermelho);
-}
+  }
+
 void ledVerde(){
  //precisa fazer  
 }
