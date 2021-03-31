@@ -40,3 +40,18 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+
+### GRUPO SMART ENERGY
+
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Lucas%20Antonio.jpg?raw=true)
+
+Meu nome é Lucas Antonio,tenho 15 anos e eu ajudei meu grupo na parte das correção do codigos e dos testes.
+
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Vitoria%20Bordaz.jpg?raw=true)
+
+oiii meu nome é Vitória eu tenho 14 anos e eu ajudei nos testes do trabalho!!
+
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Manuela%20Ribeiro.jpg?raw=true)
+
+Eu sou a Manuela, tenho 14 anos e ajudei no grupo na fase de testes do codigo.
