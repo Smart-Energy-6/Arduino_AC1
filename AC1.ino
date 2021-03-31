@@ -73,9 +73,12 @@ void loop()
   digitalWrite(vermelho,estadoLedVermelho);
   }
 
-void ledVerde(){
- //precisa fazer  
-}
+//led verde
+  void ledVerde(bool estado){
+  estadoLedVerde = !estadoLedVerde;
+  digitalWrite(verde,estadoLedVerde);
+  }
+
 void ledAzul(bool estado){
 	digitalWrite(azul,estado);
 }
