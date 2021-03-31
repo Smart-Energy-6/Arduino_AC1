@@ -58,6 +58,12 @@ void loop()
      digitalWrite(vermelho, true);
     lastDebounceTime1 = millis();}
 	
+//botão desligar - led vermelho
+    if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao2)){
+    Serial.println("botao 2 apertado");
+     digitalWrite(vermelho, false);
+      lastDebounceTime1 = millis();}
+	
   delay(10);
 }
 
