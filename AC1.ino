@@ -17,6 +17,7 @@ const int botaoDelay = 100;
 
 void setup()
 {
+//entradas
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
   
