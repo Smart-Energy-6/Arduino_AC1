@@ -1,9 +1,11 @@
-//variaveis do led
+//variaveis da led
 const int vermelho = 5;
 const int verde = 6;
-const int azul = 7
+const int azul = 7;
 
 bool estadoLedVermelho = false;
+bool estadoLedVerde = false;
+bool estadoLedAzul = false;
 
 const int botao1 = 2;
 unsigned long lastDebounceTime1 = 0;
