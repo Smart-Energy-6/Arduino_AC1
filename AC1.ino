@@ -34,11 +34,14 @@ void setup()
 }
 
 void loop()
+
 {
-  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
-  	Serial.println("botao 1 apertado");
-    ledVermelho();
-  	lastDebounceTime1 = millis();
+//Temperatura - led azul
+   if(getTemperatura() > 15){
+    digitalWrite(azul, true);
+     Serial.println("Temperatura alta");
+  } else {
+     digitalWrite(azul, false); 
   }
   
   if(getTemperatura() > 30){
