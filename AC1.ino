@@ -86,9 +86,11 @@ int getLuminosidade(){
       return luminosidade;
 }
 
-void ledAzul(bool estado){
-	digitalWrite(azul,estado);
-}
+//led azul
+  void ledAzul(bool estado){
+  estadoLedAzul = !estadoLedAzul;
+  digitalWrite(azul,estadoLedAzul);
+  }
 
 int getTemperatura(){
   	int temperaturaC;
