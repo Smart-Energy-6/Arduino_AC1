@@ -7,7 +7,11 @@ bool estadoLedVermelho = false;
 bool estadoLedVerde = false;
 bool estadoLedAzul = false;
 
+//variaveis botões
 const int botao1 = 2;
+const int botao2 = 3;
+
+unsigned long lastDebounceTime2 = 0;
 unsigned long lastDebounceTime1 = 0;
 const int botaoDelay = 100;
 
