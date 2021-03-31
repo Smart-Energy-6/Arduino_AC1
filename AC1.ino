@@ -17,18 +17,20 @@ const int botaoDelay = 100;
 
 void setup()
 {
+//entradas
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
-  
+
+//saidas
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
-  
+  pinMode(azul, OUTPUT);
+
   Serial.begin(9600);
-	
+
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
   Serial.println("                           V1.0");
-  Serial.println("Grupo: NOME AQUI               ");
+  Serial.println("Grupo: SmartEnergy");
 }
 
 void loop()
