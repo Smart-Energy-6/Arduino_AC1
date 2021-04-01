@@ -64,3 +64,8 @@ Eu sou a Manuela, tenho 14 anos e ajudei no grupo na fase de testes do codigo.
 
 
 Oi, meu nome é Amanda Vaitcunas,tenho 15 anos e eu ajudei o meu grupo Smart Energy nos testes.
+
+
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Lucas%20Ullian.jpg?raw=true)
+
+Oi, meu nome é Lucas Ullian, e ajudei o Smart Energy, na parte dos codigos.
