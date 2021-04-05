@@ -70,5 +70,7 @@ Oi, meu nome é Amanda Vaitcunas,tenho 15 anos e eu ajudei o meu grupo Smart Ene
 
 Oi, meu nome é Lucas Ullian, e ajudei o Smart Energy, na parte dos codigos.
 
+![](https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Gustavo%20Spadoto.jpg?raw=true)
+
 Eu sou o Gustavo de Mattos Spadoto, e ajudei o Smart Energy na parte de codigos 
-https://github.com/Smart-Energy-6/Arduino_AC1/blob/main/Gustavo%20Spadoto.jpg?raw=true)
+
